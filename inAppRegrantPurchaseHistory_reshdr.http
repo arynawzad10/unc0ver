@@ -1,0 +1,42 @@
+HTTP/1.1 200 Apple WebObjects
+x-apple-jingle-correlation-key: UOTFJQ5CR4766OQGMX42UORQLM
+x-apple-request-uuid: a3a654c3-a28f-3fef-3a06-65f9aa3a305b
+pod: 31
+x-apple-translated-wo-url: /WebObjects/MZFinance.woa/wa/inAppRegrantPurchaseHistory
+apple-tk: false
+x-b3-spanid: 1cf2b2a5eeeb48cc
+edge-control: no-store
+edge-control: cache-maxage=0
+content-type: text/xml; charset=UTF-8
+x-apple-lokamai-no-cache: true
+b3: a3a654c3a28f3fef3a0665f9aa3a305b-1cf2b2a5eeeb48cc
+cache-control: private
+cache-control: no-cache
+cache-control: no-store
+cache-control: no-transform
+cache-control: must-revalidate
+cache-control: max-age=0
+x-apple-actionsignature: AQCeSWPZs0TEtSUEL/q8DHTkiFCT5nilQFaS1edswForQbS1VFeOs+FlwQJrgDzGNpyncbvndipuAONGJW4SClXlAAAAE3fKreY6fxjvulJz65EPtYu2z+o=
+x-b3-traceid: a3a654c3a28f3fef3a0665f9aa3a305b
+itspod: 31
+x-webobjects-loadaverage: 67
+x-responding-instance: MZFinance:3310092:::
+apple-seq: 1
+apple-originating-system: MZFinance
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-frame-options: SAMEORIGIN
+x-apple-orig-url: https://p31-buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/inAppRegrantPurchaseHistory
+x-apple-application-site: MR22
+date: Fri, 05 Feb 2021 16:13:15 GMT
+set-cookie: itspod=31; version="1"; expires=Fri, 05-Mar-2021 16:13:15 GMT; path=/; domain=.apple.com
+set-cookie: mzf_in=3310092; version="1"; path=/WebObjects; domain=.apple.com; secure; HttpOnly
+set-cookie: mzf_dr=0; version="1"; expires=Thu, 01-Jan-1970 00:00:00 GMT; path=/WebObjects; domain=.apple.com
+apple-timing-app: 364 ms
+expires: Fri, 05 Feb 2021 16:13:15 GMT
+x-apple-request-store-front: 143441-1,29
+x-apple-date-generated: Fri, 05 Feb 2021 16:13:15 GMT
+x-apple-application-instance: 3310092
+content-length: 259
+Set-Cookie: ns-mzf-inst=241-27-443-116-81-9024-3310092-31-mr23; version=1; Max-Age=1800; path=/WebObjects/; domain=.apple.com; httponly
+
